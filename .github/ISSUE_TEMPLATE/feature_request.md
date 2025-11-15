@@ -7,14 +7,20 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Problem statement
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+Is your request related to a workflow or limitation? Describe the scenario and
+why it matters to nix-terminal users.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Proposed solution
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+Explain the behavior or UI you would like to see. Include sketches, command
+examples, or pseudo code if helpful.
+
+## Alternatives
+
+Have you explored other approaches or existing tools? Detail them here.
+
+## Additional context
+
+Add any extra context or screenshots about the feature request.

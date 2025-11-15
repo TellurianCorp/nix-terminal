@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions & Support
+    url: https://github.com/tellurian/nix-terminal/blob/main/.github/SUPPORT.md
+    about: Review the support guide for the best place to ask questions.
+  - name: Security policy
+    url: https://github.com/tellurian/nix-terminal/blob/main/.github/SECURITY.md
+    about: Please follow the security policy to report vulnerabilities privately.
